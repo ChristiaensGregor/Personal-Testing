@@ -28,4 +28,5 @@ Project Mindfullness : Android
 * Nick Aelbrecht
 * Grégor Christiaens
 * Huanchang Tan
+
 [comment]: <> (others when they start working on android)
