@@ -17,9 +17,13 @@ Project Mindfullness : Android
 * You should now be able to run the project, for an ideal simulation try installing a virtual mobile device of your choosing.
 
 [//]: # (This may be the most platform independent comment)
+
 [Comment] (Add a screenshot of the running programm for reference)
+
 [comment]: <> (##How to run tests)
+
 [comment]: <> (##Deployment -> Devop organisation , backend org in general)
+
 ## Authors
 * Nick Aelbrecht
 * Grégor Christiaens
