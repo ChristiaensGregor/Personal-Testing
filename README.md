@@ -1,5 +1,5 @@
 # Project Mindfullness : Android
-======
+------
 
 ## Introduction
 
