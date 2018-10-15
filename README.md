@@ -18,11 +18,11 @@ Project Mindfullness : Android
 
 [//]: # (This may be the most platform independent comment)
 
-[Comment] (Add a screenshot of the running programm for reference)
+[//]: # (Add a screenshot of the running programm for reference)
 
-[comment]: <> (##How to run tests)
+[//]: # (##How to run tests)
 
-[comment]: <> (##Deployment -> Devop organisation , backend org in general)
+[//]: # (##Deployment -> Devop organisation , backend org in general)
 
 ## Authors
 * Nick Aelbrecht
