@@ -1,4 +1,4 @@
-# Project Mindfullness : Android
+Project Mindfullness : Android
 ------
 
 ## Introduction
