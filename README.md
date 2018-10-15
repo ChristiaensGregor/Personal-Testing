@@ -10,7 +10,8 @@ Project Mindfullness : Android
 
 ## Installing required software
 * Development Environment : Android Studio
-    Now you can go and install Android studio : Download link https://developer.android.com/studio/
+
+    Now you can go and install Android studio :Download link https://developer.android.com/studio/
     If this is your first time installing and you are not sure how to get started
     here is a guide on installing Android Studio : https://developer.android.com/studio/install
 
