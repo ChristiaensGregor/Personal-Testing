@@ -15,7 +15,7 @@ Project Mindfullness : Android
     here is a guide on installing Android Studio : https://developer.android.com/studio/install  
 
 * You should now be able to run the project, for an ideal simulation try installing a virtual mobile device of your choosing.
-[Comment](Add a screenshot of the running programm for reference)
+[Comment] (Add a screenshot of the running programm for reference)
 [comment]: <> (##How to run tests)
 [comment]: <> (##Deployment -> Devop organisation , backend org in general)
 ## Authors
