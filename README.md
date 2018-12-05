@@ -1,11 +1,9 @@
 # Template README : ProjectName
 
----------------------------------------------------------------------------------------------
-
-Some introductory text telling new readers about the project
+One Paragraph of project description
 
 ## Contents
-- Get started
+- Deployment
     - Prerequisites
     - Installing required software
     - Clone or download the repository
@@ -14,7 +12,9 @@ Some introductory text telling new readers about the project
     - General page breakdown
 - Contributors
 
-## Introduction
+## Deployment
+
+Add additional notes about how to deploy this on a live system
 
 ## Prerequisites
 * Some prerequisites  
@@ -40,14 +40,6 @@ npm install
 git clone https://github.com/HoGent-Projecten3/projecten3-1819-angular-groep2-mindfullness.git
 cd mindfulnessapp
 ```
-
-[//]: # (This may be the most platform independent comment)
-
-[//]: # (Add a screenshot of the running programm for reference)
-
-[//]: # (##How to run tests)
-
-[//]: # (##Deployment -> Devop organisation , backend org in general)
 
 ## Contributers
 * Grégor Christiaens
