@@ -4,16 +4,18 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
 [![Trello Board](https://img.shields.io/badge/Planning-Trello-brightred.svg?style=flat-square)](https://trello.com/b/ZqN99gGN/agile-sprint-board)
+[![Code Climate](https://codeclimate.com/github/skywinder/github-changelog-generator/badges/gpa.svg)](https://codeclimate.com/github/skywinder/github-changelog-generator)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 
 One Paragraph of project description, adding images to your reame can be done in multiple ways , want to optimize your this process look into using github pages to host your images. Read more on this [here](https://www.jefclaes.be/2012/04/add-images-to-github-readme.html) or just visit the [github pages](https://pages.github.com) site.
 
 Want to add great looking badges to your readme [For the Badge](https://forthebadge.com) has some great badges ready for use. (see above Built for android) 
 
 You can also add some quick information using things like how manny people are contributing and link themto a list (see above)  
-Add info on how well your tests cover your code using [coveralls](https://coveralls.io/)
+Add info on how well your tests cover your code using [coveralls](https://coveralls.io/) or how mutch documentation has been writen and how acurate it is using [x]()
 
 Or some links to guides on how to make pull requests or use commit tools like [commitzen](http://commitizen.github.io/cz-cli/)(see above : PR welcome and Commitizen) 
 
