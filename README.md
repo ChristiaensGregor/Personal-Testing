@@ -41,8 +41,8 @@ git clone https://github.com/HoGent-Projecten3/projecten3-1819-angular-groep2-mi
 cd mindfulnessapp
 ```
 ## Functionality overview
-* General functionality
-* General project structure
+## General functionality
+## General project structure
 
 ## Contributers
 * Grégor Christiaens
