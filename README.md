@@ -1,6 +1,7 @@
 # Template README : ProjectName & Logo
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](./CONTRIBUTORS.md)  
 
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
@@ -12,7 +13,7 @@ Want to add great looking badges to your readme [For the Badge](https://fortheba
 You can also add some quick information using things like how manny people are contributing and link themto a list (see above)  
 Add info on how well your tests cover your code using [coveralls](https://coveralls.io/)
 
-Or some links to guides on how to make pull requests (see above) 
+Or some links to guides on how to make pull requests or use commit tools (see above : PR welcome and Commitizen) 
 
 
 ## Table of content
@@ -55,7 +56,9 @@ cd mindfulnessapp
 ```
 ## Functionality overview
 ## General functionality
+Properly adress the main features of your project and possible additions
 ## General project structure
+Explain the general structure and perhaps explain why you've chosen to use this structure
 
 ## Contributers
 * Grégor Christiaens
