@@ -40,6 +40,9 @@ npm install
 git clone https://github.com/HoGent-Projecten3/projecten3-1819-angular-groep2-mindfullness.git
 cd mindfulnessapp
 ```
+## Functionality overview
+### General functionality
+## General project structure
 
 ## Contributers
 * Grégor Christiaens
