@@ -1,13 +1,18 @@
 # Template README : ProjectName & Logo
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](./CONTRIBUTORS.md)  
+
+
 One Paragraph of project description, adding images to your reame can be done in multiple ways , want to optimize your this process look into using github pages to host your images. Read more on this [here](https://www.jefclaes.be/2012/04/add-images-to-github-readme.html) or just visit the [github pages](https://pages.github.com) site.
 
-Want to add great looking badges to your readme [For the Badge](https://forthebadge.com) has some great badges ready for use. (See example below)
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+Want to add great looking badges to your readme [For the Badge](https://forthebadge.com) has some great badges ready for use. (see above) 
 
-You can also add some quick information using things like :  
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](./CONTRIBUTORS.md)  
+You can also add some quick information using things like how manny people are contributing and link themto a list (see above)  
 Add info on how well your tests cover your code using [coveralls](https://coveralls.io/)
+
+Or some links to guides on how to make pull requests (see above) 
 
 
 ## Table of content
