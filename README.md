@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
-[![Trello Board](https://img.shields.io/badge/Trello-brightred.svg?style=flat-square)](https://trello.com/b/ZqN99gGN/agile-sprint-board)
+[![Trello Board](https://img.shields.io/badge/Planning-Trello-brightred.svg?style=flat-square)](https://trello.com/b/ZqN99gGN/agile-sprint-board)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
