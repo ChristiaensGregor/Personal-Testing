@@ -1,10 +1,10 @@
-Project Mindfullness : Android
-------
+Template README : ProjectName
+---------------------------------------------------------------------------------------------
 
 ## Introduction
 
 ## Prerequisites
-* Latest version of JDK  
+* Some prerequisites  
     Before installing Android Studio make sure you have the Java Development Kit (Or JDK) installed  
     Here is a guide on how to install the JDK [Programming/Howto/JDK](https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_HowTo.html)
 
@@ -25,8 +25,5 @@ Project Mindfullness : Android
 [//]: # (##Deployment -> Devop organisation , backend org in general)
 
 ## Authors
-* Nick Aelbrecht
 * Grégor Christiaens
-* Huanchang Tan
-
 [comment]: <> (others when they start working on android)
