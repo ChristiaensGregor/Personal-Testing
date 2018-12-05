@@ -8,8 +8,8 @@ One Paragraph of project description
     - [Installing required software](#Installing-required-software)
     - [Clone or download the repository](#Clone-or-download-the-repository)
 - [Functionality overview](#Functionality-overview)
-    - [General functionality](#General functionality)
-    - [General page breakdown](#General-page-breakdown)
+    - [General functionality](#General-functionality)
+    - [General project structure](#General-project-structure)
 - [Contributers](#Contributers)
 
 ## Deployment
@@ -34,7 +34,7 @@ npm install
 ```
 * You should now be able to run the project, for an ideal simulation try installing a virtual mobile device of your choosing.
 
-### Clone the repository
+### Clone or download the repository
 
 ```shell
 git clone https://github.com/HoGent-Projecten3/projecten3-1819-angular-groep2-mindfullness.git
