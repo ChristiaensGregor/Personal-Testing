@@ -1,6 +1,7 @@
-# Template README : ProjectName & ProjectLogo
+# Template README : ProjectName & Logo
 
-One Paragraph of project description
+One Paragraph of project description, adding images to your reame can be done in multiple ways , want to optimize your this process look into using github pages to host your images. Read more on this [here](https://www.jefclaes.be/2012/04/add-images-to-github-readme.html) or just visit the [github pages](https://pages.github.com) site.
+
 
 ## Table of content
 - [Deployment](#Deployment)
