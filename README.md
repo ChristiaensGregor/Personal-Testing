@@ -10,7 +10,7 @@ One Paragraph of project description
 - [Functionality overview](#Functionality overview)
     - General functionality
     - General page breakdown
-- [Contributors](#Contributors)
+- [Contributers](#Contributers)
 
 ## Deployment
 
