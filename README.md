@@ -7,7 +7,7 @@ One Paragraph of project description
     - Prerequisites
     - Installing required software
     - Clone or download the repository
-- [Functionality overview](#Functionality overview)
+- [Functionality overview](#Functionality-overview)
     - General functionality
     - General page breakdown
 - [Contributers](#Contributers)
@@ -46,4 +46,4 @@ cd mindfulnessapp
 
 ## Contributers
 * Grégor Christiaens
-[comment]: <> (others when they start working on android)
+* ...
