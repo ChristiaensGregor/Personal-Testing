@@ -2,6 +2,18 @@
 
 ---------------------------------------------------------------------------------------------
 
+Some introductory text telling new readers about the project
+
+## Contents
+- Get started
+    - Prerequisites
+    - Installing required software
+    - Clone or download the repository
+- Functionality overview
+    - General functionality
+    - General page breakdown
+- Contributors
+
 ## Introduction
 
 ## Prerequisites
@@ -15,7 +27,19 @@
     If this is your first time installing and you are not sure how to get started  
     here is a guide on installing Android Studio : https://developer.android.com/studio/install  
 
+Install the `npm` packages described in the `package.json` and verify that it works:
+
+```shell
+npm install
+```
 * You should now be able to run the project, for an ideal simulation try installing a virtual mobile device of your choosing.
+
+### Clone the repository
+
+```shell
+git clone https://github.com/HoGent-Projecten3/projecten3-1819-angular-groep2-mindfullness.git
+cd mindfulnessapp
+```
 
 [//]: # (This may be the most platform independent comment)
 
@@ -25,6 +49,6 @@
 
 [//]: # (##Deployment -> Devop organisation , backend org in general)
 
-## Authors
+## Contributers
 * Grégor Christiaens
 [comment]: <> (others when they start working on android)
