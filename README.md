@@ -5,7 +5,7 @@ One Paragraph of project description, adding images to your reame can be done in
 Want to add great looking badges to your readme [For the Badge](https://forthebadge.com) has some great badges ready for use. (See example below)
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 
-You can also add some quick information using things like :
+You can also add some quick information using things like :  
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
 Add info on how well your tests cover your code using [coveralls](https://coveralls.io/)
 
