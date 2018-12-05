@@ -13,7 +13,7 @@ Want to add great looking badges to your readme [For the Badge](https://fortheba
 You can also add some quick information using things like how manny people are contributing and link themto a list (see above)  
 Add info on how well your tests cover your code using [coveralls](https://coveralls.io/)
 
-Or some links to guides on how to make pull requests or use commit tools (see above : PR welcome and Commitizen) 
+Or some links to guides on how to make pull requests or use commit tools like [commitzen](http://commitizen.github.io/cz-cli/)(see above : PR welcome and Commitizen) 
 
 
 ## Table of content
