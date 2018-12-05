@@ -2,6 +2,9 @@
 
 One Paragraph of project description, adding images to your reame can be done in multiple ways , want to optimize your this process look into using github pages to host your images. Read more on this [here](https://www.jefclaes.be/2012/04/add-images-to-github-readme.html) or just visit the [github pages](https://pages.github.com) site.
 
+Want to add great looking badges to your readme [For the Badge](https://forthebadge.com) has some great badges ready for use. (See example below)
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+
 
 ## Table of content
 - [Deployment](#Deployment)
