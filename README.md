@@ -1,15 +1,15 @@
-# Template README : ProjectName
+# Template README : ProjectName & ProjectLogo
 
 One Paragraph of project description
 
-## Contents
+## Table of content
 - [Deployment](#Deployment)
-    - Prerequisites
-    - Installing required software
-    - Clone or download the repository
+    - [Prerequisites](#Prerequisites)
+    - [Installing required software](#Installing-required-software)
+    - [Clone or download the repository](#Clone-or-download-the-repository)
 - [Functionality overview](#Functionality-overview)
-    - General functionality
-    - General page breakdown
+    - [General functionality](#General functionality)
+    - [General page breakdown](#General-page-breakdown)
 - [Contributers](#Contributers)
 
 ## Deployment
